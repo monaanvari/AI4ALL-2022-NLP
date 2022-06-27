@@ -1,6 +1,6 @@
 # AI4ALL-2022-NLP
 ## Day 1
-[slides](https://docs.google.com/presentation/d/1iSSInZ8Gi65CvYXkfj0cu83C7BUimOB_/edit#slide=id.p1)
+[Welcome to AI4ALL NLP slides](https://docs.google.com/presentation/d/1iSSInZ8Gi65CvYXkfj0cu83C7BUimOB_/edit#slide=id.p1)
 
 ## Other materials
 Our [NLP playground](https://docs.google.com/document/d/1sQRM3exnko5kmz3yqWHN3eQ6Oc0-fqrf4LKVWpUGPuQ/edit) has interactive material to peruse for fun.  
