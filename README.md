@@ -6,7 +6,7 @@
 [Introduction to AI slides](https://docs.google.com/presentation/d/1d8PBtA111ya7Bezbb4yQkgBbBWn-ibZi/edit#slide=id.p1)
 
 ## Day3--June 29, Wednesday
-[Python Notebook 1](https://colab.research.google.com/drive/16u1R4a_esZ1B6993HoUlZPdgKiFspVDs?usp=sharing#scrollTo=dIX2pxeOWSU4)
+[Python Notebook 1](https://colab.research.google.com/drive/16u1R4a_esZ1B6993HoUlZPdgKiFspVDs?usp=sharing#scrollTo=dIX2pxeOWSU4)    
 [Python Notebook 2](https://colab.research.google.com/drive/1UzT1wjKcLY0p9fCX8o5RiwtOrvRK_vx6?usp=sharing)
 
 
