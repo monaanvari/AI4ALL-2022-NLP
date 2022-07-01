@@ -10,7 +10,7 @@
 [Python Notebook 2](https://colab.research.google.com/drive/1UzT1wjKcLY0p9fCX8o5RiwtOrvRK_vx6?usp=sharing)
 
 ## Day 5--July 1, Friday
-[Introduction to NLP slides](https://docs.google.com/presentation/d/1E1On69Kt-3c4q3hPwxqXO-cW0cBVQjyg/edit?usp=sharing&ouid=115990656822910091874&rtpof=true&sd=true)\\
+[Introduction to NLP slides](https://docs.google.com/presentation/d/1E1On69Kt-3c4q3hPwxqXO-cW0cBVQjyg/edit?usp=sharing&ouid=115990656822910091874&rtpof=true&sd=true).   
 [Rule Based Classifier Notebook](https://colab.research.google.com/drive/1tWKKrZVm2LE2BM5ha0BWXmgzuVU2IxEJ?authuser=1)
 
 ## Other materials
