@@ -15,7 +15,7 @@
 
 ## Day 6--July 5, Monday
 [Evaluation Metrics slides](https://docs.google.com/presentation/d/1hMlljrWPPkTXJMSzOl50h-UB-d0arJ6H/edit?usp=sharing&ouid=115990656822910091874&rtpof=true&sd=true).   
-[Evaluation Metrics Notebook](https://colab.research.google.com/drive/1SnMa4yYj5M5jzTtYWIEzEeAm8r50p9WM?usp=sharing).
+[Evaluation Metrics Notebook](https://colab.research.google.com/drive/1SnMa4yYj5M5jzTtYWIEzEeAm8r50p9WM?usp=sharing). 
 [Evaluation Metrics Lecture and Live Demo Recording (You can find the solution to the notebook by watching this video)](https://stanford.zoom.us/rec/share/Kha6HUbbU9ad9tnWUjvXa_ngucJjlsEfsadwKjI_Vv1OCOfIsmJL6Q0NgfqOKf2S.eWt4oSyJsU3XLiOV
 )
 
