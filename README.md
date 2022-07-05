@@ -13,6 +13,13 @@
 [Introduction to NLP slides](https://docs.google.com/presentation/d/1E1On69Kt-3c4q3hPwxqXO-cW0cBVQjyg/edit?usp=sharing&ouid=115990656822910091874&rtpof=true&sd=true).   
 [Rule Based Classifier Notebook](https://colab.research.google.com/drive/1tWKKrZVm2LE2BM5ha0BWXmgzuVU2IxEJ?authuser=1)
 
+## Day 6--July 5, Monday
+[Evaluation Metrics slides](https://docs.google.com/presentation/d/1hMlljrWPPkTXJMSzOl50h-UB-d0arJ6H/edit?usp=sharing&ouid=115990656822910091874&rtpof=true&sd=true).   
+[Evaluation Metrics Notebook](https://colab.research.google.com/drive/1SnMa4yYj5M5jzTtYWIEzEeAm8r50p9WM?usp=sharing).
+[Evaluation Metrics Lecture and Live Demo Recording (You can find the solution to the notebook by watching this video)](https://stanford.zoom.us/rec/share/Kha6HUbbU9ad9tnWUjvXa_ngucJjlsEfsadwKjI_Vv1OCOfIsmJL6Q0NgfqOKf2S.eWt4oSyJsU3XLiOV
+)
+
+
 ## Other materials
 Our [NLP playground](https://docs.google.com/document/d/1sQRM3exnko5kmz3yqWHN3eQ6Oc0-fqrf4LKVWpUGPuQ/edit) has interactive material to peruse for fun.  
 [Unix for Poets](https://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf) has more details on text processing.  
