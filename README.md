@@ -26,7 +26,7 @@
 ## Day 7--July 6, Wednesday
 [Naive Bayes slides](https://docs.google.com/presentation/d/1oCyZSIR5wjCuV9acx1G8vBLOsA3SSXHM/edit#slide=id.p1)  
 [Naive Bayes notebook](https://drive.google.com/file/d/1rjArZIpp1LAIsRsHvY7MfD5koLEUZRCH/view?usp=sharing)  
-[Conditional Probablity Worksheet](https://drive.google.com/file/d/1rjArZIpp1LAIsRsHvY7MfD5koLEUZRCH/view?usp=sharing)  
+[Conditional Probablity Worksheet](https://docs.google.com/document/d/1vjggwhzUM1OVN2znJ1v_rmILAShvgam6/edit?usp=sharing&ouid=105111448754032719430&rtpof=true&sd=true)  
 
 ## Other materials
 Our [NLP playground](https://docs.google.com/document/d/1sQRM3exnko5kmz3yqWHN3eQ6Oc0-fqrf4LKVWpUGPuQ/edit) has interactive material to peruse for fun.  
