@@ -18,12 +18,15 @@
 [Introduction to NLP slides](https://docs.google.com/presentation/d/1E1On69Kt-3c4q3hPwxqXO-cW0cBVQjyg/edit?usp=sharing&ouid=115990656822910091874&rtpof=true&sd=true).   
 [Rule Based Classifier Notebook](https://colab.research.google.com/drive/1tWKKrZVm2LE2BM5ha0BWXmgzuVU2IxEJ?authuser=1)
 
-## Day 6--July 5, Monday
+## Day 6--July 5, Tuesday
 [Evaluation Metrics slides](https://docs.google.com/presentation/d/1hMlljrWPPkTXJMSzOl50h-UB-d0arJ6H/edit?usp=sharing&ouid=115990656822910091874&rtpof=true&sd=true)<br />
 [Evaluation Metrics Notebook](https://colab.research.google.com/drive/1SnMa4yYj5M5jzTtYWIEzEeAm8r50p9WM?usp=sharing)<br /> 
 [Precision/Recall/F1 Exercise Worksheet](https://docs.google.com/document/d/1bB_VVF49Y514-5QH1TR2UKYZ7Pf4XDW5PHI8gU1eD3E/edit?usp=sharing)<br /> 
 
-
+## Day 7--July 6, Wednesday
+[Naive Bayes slides](https://docs.google.com/presentation/d/1oCyZSIR5wjCuV9acx1G8vBLOsA3SSXHM/edit#slide=id.p1)
+[Naive Bayes notebook](https://drive.google.com/file/d/1rjArZIpp1LAIsRsHvY7MfD5koLEUZRCH/view?usp=sharing)
+[Conditional Probablity Worksheet](https://drive.google.com/file/d/1rjArZIpp1LAIsRsHvY7MfD5koLEUZRCH/view?usp=sharing)
 
 ## Other materials
 Our [NLP playground](https://docs.google.com/document/d/1sQRM3exnko5kmz3yqWHN3eQ6Oc0-fqrf4LKVWpUGPuQ/edit) has interactive material to peruse for fun.  
