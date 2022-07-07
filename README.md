@@ -28,6 +28,11 @@
 [Naive Bayes notebook](https://drive.google.com/file/d/1rjArZIpp1LAIsRsHvY7MfD5koLEUZRCH/view?usp=sharing)  
 [Conditional Probablity Worksheet](https://docs.google.com/document/d/1vjggwhzUM1OVN2znJ1v_rmILAShvgam6/edit?usp=sharing&ouid=105111448754032719430&rtpof=true&sd=true)  
 
+## Day 8--July 7, Thursday
+[Data Representation slides](https://docs.google.com/presentation/d/1fRp_jl4gVR8qxyWHfQAtu6TK1Gyd9y1K/edit?usp=sharing&ouid=115990656822910091874&rtpof=true&sd=true)  
+[Data Representation notebook](https://colab.research.google.com/drive/1s5ZFkgVlu2klXwOBg-3H_9_eyO_wwBDx?usp=sharing)  
+[Data Representation notebook solution](https://colab.research.google.com/drive/1DJZgFh75URRXTN1_OAM9xhiFm4Wn-25z?usp=sharing)
+
 ## Other materials
 Our [NLP playground](https://docs.google.com/document/d/1sQRM3exnko5kmz3yqWHN3eQ6Oc0-fqrf4LKVWpUGPuQ/edit) has interactive material to peruse for fun.  
 [Unix for Poets](https://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf) has more details on text processing.  
