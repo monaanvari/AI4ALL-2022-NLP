@@ -33,6 +33,11 @@
 [Data Representation notebook](https://colab.research.google.com/drive/1s5ZFkgVlu2klXwOBg-3H_9_eyO_wwBDx?usp=sharing)  
 [Data Representation notebook solution](https://colab.research.google.com/drive/1DJZgFh75URRXTN1_OAM9xhiFm4Wn-25z?usp=sharing)
 
+## Day 9--July 8, Friday
+[Clustering Slides](https://docs.google.com/presentation/d/1Xg7m8c8uY4onKL1ihhPenQjJ1fYmoDty/edit#slide=id.p1)
+[Clustering Notebook](https://colab.research.google.com/drive/15hjb7nYK40K1gAXgMcNn8y57fyEbfPch?authuser=1)
+
+
 ## Other materials
 Our [NLP playground](https://docs.google.com/document/d/1sQRM3exnko5kmz3yqWHN3eQ6Oc0-fqrf4LKVWpUGPuQ/edit) has interactive material to peruse for fun.  
 [Unix for Poets](https://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf) has more details on text processing.  
