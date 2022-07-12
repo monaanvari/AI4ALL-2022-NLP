@@ -39,7 +39,7 @@
 
 ## Day 9--July 11, Monday
 [Regression Slides](https://docs.google.com/presentation/d/1nVo43_rzjZ_2mKIZZACPDVehO4QQoSlD/edit?usp=sharing&ouid=115990656822910091874&rtpof=true&sd=true)  
-[Regression Notebook](https://colab.research.google.com/drive/1lNSrKlyxyGR_cW_i39lJ-iTTxm2yanme?usp=sharing) 
+[Regression Notebook](https://colab.research.google.com/drive/1lNSrKlyxyGR_cW_i39lJ-iTTxm2yanme?usp=sharing)<br /> 
 [Regression Notebook Solution](https://colab.research.google.com/drive/1XK4cx4ZCFegytKVxgGrSaSiPN-6fnuYb?usp=sharing)
 
 ## Day 11--July 12, Tuesday
