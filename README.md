@@ -37,6 +37,9 @@
 [Clustering Slides](https://docs.google.com/presentation/d/1Xg7m8c8uY4onKL1ihhPenQjJ1fYmoDty/edit#slide=id.p1)  
 [Clustering Notebook](https://colab.research.google.com/drive/15hjb7nYK40K1gAXgMcNn8y57fyEbfPch?authuser=1)
 
+## Day 11--July 12, Tuesday
+[Classification slides](https://docs.google.com/presentation/d/1l1VETh0TWq5C-aKGNpxK8zY4UNSCo5mY/edit#slide=id.p1)  
+[Classification notebook](https://colab.research.google.com/drive/1XF_-u17H3_DW7JBYPQV6DO5nxTr0-iG5?authuser=1)
 
 ## Other materials
 Our [NLP playground](https://docs.google.com/document/d/1sQRM3exnko5kmz3yqWHN3eQ6Oc0-fqrf4LKVWpUGPuQ/edit) has interactive material to peruse for fun.  
