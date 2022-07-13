@@ -48,7 +48,7 @@
 
 ## Day 12--July 13, Wednesday
 [Neural Networks slides](https://docs.google.com/presentation/d/1SVjgaDUQ7webbD5nW3O8CZAyHL5IlyNa/edit?usp=sharing&ouid=115990656822910091874&rtpof=true&sd=true)  
-[Neural Networks notebook](https://colab.research.google.com/drive/1mhjw91jPqduW--9qtrwN3gI_GvNLJVfR?usp=sharing)  
+[Neural Networks Notebook](https://colab.research.google.com/drive/1mhjw91jPqduW--9qtrwN3gI_GvNLJVfR?usp=sharing)  
 [Neural Networks Notebook Solution](https://colab.research.google.com/drive/1_1X-TGYbA4qIgz9IY_u2nHgYQTv05C_b?usp=sharing)
 
 
