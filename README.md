@@ -46,6 +46,12 @@
 [Classification slides](https://docs.google.com/presentation/d/1l1VETh0TWq5C-aKGNpxK8zY4UNSCo5mY/edit#slide=id.p1)  
 [Classification notebook](https://colab.research.google.com/drive/1XF_-u17H3_DW7JBYPQV6DO5nxTr0-iG5?authuser=1)
 
+## Day 12--July 13, Wednesday
+[Neural Networks slides](https://docs.google.com/presentation/d/1SVjgaDUQ7webbD5nW3O8CZAyHL5IlyNa/edit?usp=sharing&ouid=115990656822910091874&rtpof=true&sd=true)  
+[Neural Networks notebook](https://colab.research.google.com/drive/1mhjw91jPqduW--9qtrwN3gI_GvNLJVfR?usp=sharing)  
+[Neural Networks Notebook Solution](https://colab.research.google.com/drive/1_1X-TGYbA4qIgz9IY_u2nHgYQTv05C_b?usp=sharing)
+
+
 ## Other materials
 Our [NLP playground](https://docs.google.com/document/d/1sQRM3exnko5kmz3yqWHN3eQ6Oc0-fqrf4LKVWpUGPuQ/edit) has interactive material to peruse for fun.  
 [Unix for Poets](https://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf) has more details on text processing.  
